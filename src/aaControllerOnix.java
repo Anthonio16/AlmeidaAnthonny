@@ -33,7 +33,7 @@ public class aaControllerOnix {
             System.out.println("\nNo se creó una nueva especie.");
         }
 
-        System.out.println("\n== Fin de aaAppOnix ==");
+        System.out.println("\n== Fin de la aplicacion ==");
     }
 
     // Animación o0o de 0% a 100% (cédula impar)
