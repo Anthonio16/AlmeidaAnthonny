@@ -1,18 +1,18 @@
-## Getting Started
+# Prueba de Programación II
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Nombre:** Anthonny Almeida  
+**Número de cédula:** 1724077829  
+**Fecha:** 19/11/2025  
 
-## Folder Structure
+Este repositorio contiene el desarrollo de la *Prueba de Programación II*, correspondiente a la materia de Programación II.  
+El proyecto implementa una estructura con controladores, jerarquías de clases, interfaces y simulación básica de especies y mutaciones.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Repositorio en GitHub
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+El código completo se encuentra disponible en el siguiente enlace:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+🔗 **https://github.com/Anthonio16/AlmeidaAnthonny.git**
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
